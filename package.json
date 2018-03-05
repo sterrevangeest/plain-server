@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "plain-server",
+  "version": "1.0.0",
+  "description": "This package will hold a plain server serving static html files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sterre van Geest <sterrevangeest@hotmail.nl>",
+  "license": "ISC"
+}
